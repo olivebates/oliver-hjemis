@@ -128,10 +128,10 @@ div > a:hover {
         display: flex;
         background-color: #95A5B9;
         border-radius: 5px;
-        margin: 10vw;
+        margin: 5vw;
         margin-top: 4vw;
         padding-top:3vw;
-        width:90%px;
+        width:90%;
     }
     .bonusNavLinkBig {
         width:70vw;
@@ -234,7 +234,7 @@ div > a:hover {
         width:100%;
         height:100%;
         object-fit: cover;
-        border-radius: 5pix;
+        border-radius: 5px;
         background-size: cover;
         background-position: center;
     }
@@ -322,7 +322,7 @@ div > a:hover {
         object-fit: cover;
         padding: 0px;
         width: 100%;
-        height: 300px;
+        height: 170px;
         margin: 0px;
     }
     .headerOverflowContainer {
@@ -344,7 +344,7 @@ div > a:hover {
         visibility: visible;
         display: relative;
     }
-    .navContainer {
+    .navContainer { 
         position: static;
         margin: 0px;
         display: flex;
@@ -383,10 +383,9 @@ div > a:hover {
         background-color: #003459;
         display: flex;
         justify-content: space-around;
-        height: 13%;
+        height: 12vw;
         width: 100%;
         margin-bottom: 0px;
-        margin-top: 30px;
     }
     footer > div {
         margin: auto;
@@ -398,7 +397,7 @@ div > a:hover {
         display: flex;
         justify-content: center;
     }
-    .bonusNavContainer { 
+    .bonusNavContainer {
         width:40%;
         flex-direction: column;
         background-color:#95A5B9;
@@ -422,12 +421,12 @@ div > a:hover {
         width:100%;
         height:100%;
         object-fit: cover;
-        border-radius: 5pix;
+        border-radius: 5px;
         background-size: cover;
         background-position: center;
     }
     .bonusNavText {
-        border-radius: 5pix;
+        border-radius: 5px;
         margin-top: -13vw;
         text-align: center;
         font-size: 6vw;
@@ -478,7 +477,7 @@ div > a:hover {
     h1{
         text-align: center;
         text-shadow: -1px -1px 0 #003459, 1px -1px 0 #003459, -1px 1px 0 #003459, 1px 1px 0 #003459;
-        font-size: 3vw;
+        font-size: vw;
         margin:5%;
         margin-top: 7%;
         text-decoration: underline;
@@ -486,6 +485,8 @@ div > a:hover {
     .sortimentContainer {
         display: flex;
         justify-content: center;
+        margin-top:7vw;
+        margin-bottom: 5vw;
     }
     .pakkeContainer { 
         width:50%;
@@ -498,7 +499,7 @@ div > a:hover {
     }
     .pakkeButton {
         width:84%;
-        height: 8vw;
+        height: 18.7vw;
         margin:3%;
         margin-left: auto;
         margin-right: auto;
@@ -506,7 +507,7 @@ div > a:hover {
     }
     .pakkeButtonSmall {
         width:84%;
-        height: 5vw;
+        height: 8vw;
         margin:3%;
         margin-left: auto;
         margin-right: auto;
@@ -519,22 +520,22 @@ div > a:hover {
         width:100%;
         height:100%;
         object-fit: cover;
-        border-radius: 5pix;
+        border-radius: 5px;
         background-size: cover;
         background-position: center;
     }
     .pakkeText {
-        margin-top: -5.7vw;
+        margin-top: -11.7vw;
         text-align: center;
         height:200px;
-        font-size: 2.4vw;
+        font-size: 4vw;
         text-shadow: -1px -1px 0 #003459, 1px -1px 0 #003459, -1px 1px 0 #003459, 1px 1px 0 #003459;
     }
     .pakkeTextSmall {
-        margin-top: -4vw;
+        margin-top: -6.5vw;
         text-align: center;
         height:200px;
-        font-size: 2.4vw;
+        font-size: 4vw;
         text-shadow: -1px -1px 0 #003459, 1px -1px 0 #003459, -1px 1px 0 #003459, 1px 1px 0 #003459;
     }
     
@@ -604,7 +605,7 @@ div > a:hover {
         object-fit: cover;
         padding: 0px;
         width: 100%;
-        height: 300px;
+        height: 250px;
         margin: 0px;
     }
     .headerOverflowContainer {
@@ -678,7 +679,6 @@ div > a:hover {
         background-color:#95A5B9;
         border-radius: 5px;
         margin-top: 2%;
-        margin-bottom: 2%;
         margin-left: auto;
         margin-right: auto;
         display: flex;
@@ -698,12 +698,12 @@ div > a:hover {
         width:100%;
         height:100%;
         object-fit: cover;
-        border-radius: 5pix;
+        border-radius: 5px;
         background-size: cover;
         background-position: center;
     }
     .bonusNavText {
-        border-radius: 5pix;
+        border-radius: 5px;
         margin-top: -8vw;
         text-align: center;
         height:200px;
@@ -717,6 +717,7 @@ div > a:hover {
         display: flex;
         margin-bottom: 80px;
         justify-content: center;
+        width:100%;
     }
     .bonusNavContainerSmall > a {
         width:20%;
@@ -724,7 +725,7 @@ div > a:hover {
         justify-content: center;
         padding-top: 10px;
         padding-bottom: 10px;
-        margin: 5.5vw;
+        margin: 5.2vw;
         margin-top: 1%;
         margin-bottom: 0px;
         text-align: center;
@@ -773,7 +774,7 @@ div > a:hover {
     }
     .pakkeButton {
         width:22vw;
-        height: 8vw;
+        height: 11.9vw;
         margin:3%;
         margin-left: auto;
         margin-right: auto;
@@ -794,12 +795,12 @@ div > a:hover {
         width:100%;
         height:100%;
         object-fit: cover;
-        border-radius: 5pix;
+        border-radius: 5px;
         background-size: cover;
         background-position: center;
     }
     .pakkeText {
-        margin-top: -5.7vw;
+        margin-top: -7vw;
         text-align: center;
         height:200px;
         font-size: 2.4vw;
